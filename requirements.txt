@@ -1,1 +1,7 @@
-numpy==1.14.5
+numpy==1.23.1
+pandas==1.4.3
+planetary_computer==0.4.9
+pystac_client==0.6.0
+session_info==1.0.0
+tqdm==4.64.0
+ulmo==0.8.8
