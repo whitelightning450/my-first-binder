@@ -10,7 +10,6 @@ session_info==1.0.0
 tables==3.7.0
 tqdm==4.64.1
 affine==2.4.0
-attr==22.2.0
 backcall==0.2.0
 certifi==2022.12.07
 charset_normalizer==3.0.1
