@@ -7,3 +7,4 @@ pystac_client==0.5.1
 requests==2.28.2
 session_info==1.0.0
 tqdm==4.64.1
+tables==3.8.0
