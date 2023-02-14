@@ -25,7 +25,6 @@ jedi==0.18.2
 kiwisolver==1.4.4
 matplotlib_inline==0.1.6
 numexpr==2.8.4
-osgeo==3.4.2
 packaging==23.0
 parso==0.8.3
 pickleshare==0.7.5
