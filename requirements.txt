@@ -45,4 +45,4 @@ traitlets==5.9.0
 urllib3==1.26.14
 wcwidth==0.2.6
 xarray==0.17.0
-
+richdem==0.3.4
