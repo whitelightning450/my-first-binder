@@ -16,7 +16,6 @@ charset_normalizer==3.0.1
 click==7.1
 colorama==0.4.6
 cycler==0.10.0
-dateutil==2.8.2
 debugpy==1.6.6
 decorator==5.1.1
 entrypoints==0.4
