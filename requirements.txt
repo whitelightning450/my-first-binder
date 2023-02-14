@@ -44,6 +44,5 @@ tornado==6.2
 traitlets==5.9.0
 urllib3==1.26.14
 wcwidth==0.2.6
-zmq==25.0.0
 xarray==0.17.0
 
